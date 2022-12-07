@@ -11,7 +11,6 @@ export type ViaCEPAddress = {
   uf: string,
 };
 
-
 export type CEPAddress = {
   logradouro: string,
   complemento: string,
@@ -20,7 +19,6 @@ export type CEPAddress = {
   uf: string,
 
 }
-
 
 export type RequestError = {
   status: number,

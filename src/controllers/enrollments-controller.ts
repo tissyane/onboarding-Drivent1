@@ -40,6 +40,3 @@ export async function getAddressFromCEP(req: AuthenticatedRequest, res: Response
     }
   }
 }
-
-
-
